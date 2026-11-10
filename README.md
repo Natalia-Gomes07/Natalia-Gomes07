@@ -21,4 +21,4 @@ Laboratório de automação de testes E2E utilizando Cypress e JavaScript, com o
 
 ### 🔗 Conexões
 
-- LinkedIn: (https://www.linkedin.com/in/natália-gomes-902a22263/)
+[LinkedIn](https://www.linkedin.com/in/natália-gomes-902a22263/)
